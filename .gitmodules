@@ -1,0 +1,3 @@
+[submodule "Assets/OmnicatLabs"]
+	path = Assets/OmnicatLabs
+	url = https://github.com/BenJLawrence/OmniCatLabs.git
